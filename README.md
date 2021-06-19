@@ -10,5 +10,5 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning Machine Learning & Front End 
 - 🤔 I’m looking for Employment
-- 💬 I'm passionate about Statistics
+- 💬 I'm passionate about Statistics & Baseball
 
