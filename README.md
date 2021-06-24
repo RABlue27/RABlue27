@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for Employment
 - 💬 I'm passionate about Statistics & Baseball
 
--What I'm working on:
+### What I'm working on:
 
   -Learning new languages (Rust & Go)
   
@@ -23,7 +23,7 @@ Here are some ideas to get you started:-->
   -MLB The Show Discord Bot
   
   
--What I'd like to start soon:
+### What I'd like to start soon:
 
   -Writing some Python modules in Rust
   
