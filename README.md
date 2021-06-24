@@ -23,3 +23,7 @@ Here are some ideas to get you started:-->
   -MLB The Show Discord Bot
   
   
+-What I'd like to start soon:
+
+  -Writing some Python modules in Rust
+  
