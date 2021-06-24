@@ -12,3 +12,10 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for Employment
 - 💬 I'm passionate about Statistics & Baseball
 
+-What I'm working on:
+  Learning new languages (Rust & Go)
+  Expanding my Python knowledge 
+  Machine Learning projects
+  MLB The Show Discord Bot
+  
+  
