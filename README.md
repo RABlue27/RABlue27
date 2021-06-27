@@ -9,14 +9,14 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning Machine Learning & Front End 
-- 🤔 I’m looking for Employment
+- 🤔 I’m looking for Employment Oppertunities  
 - 💬 I'm passionate about Statistics & Baseball
 
 ### What I'm working on:
 
-  -Learning new languages (Rust/C# & JavaScript/React)
-  
-  -Expanding my Python knowledge 
+  -Learning new languages (Rust/C#/JavaScript)
+   
+  -Expanding my Python knowledge, brushing up on Java 
   
   -Machine Learning projects
   
@@ -26,4 +26,6 @@ Here are some ideas to get you started:-->
 ### What I'd like to start soon:
 
   -Writing some Python modules in Rust
+  
+  -Learning some frameworks (.NET/React)
   
