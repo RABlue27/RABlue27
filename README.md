@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 
 ### What I'm working on:
 
-  -Learning new languages (Rust & JavaScript/React)
+  -Learning new languages (Rust/C# & JavaScript/React)
   
   -Expanding my Python knowledge 
   
