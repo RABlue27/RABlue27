@@ -7,7 +7,7 @@
 Here are some ideas to get you started:-->
 
 
-- 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning Machine Learning & Front End Design
-- 🤔 I’m looking for Work
-- 💬 I'm passionate about Statistics & Baseball
+- 🔭 currently working on Personal Projects
+- 🌱 currently learning Machine Learning & Front End Design
+- 🤔 looking for Work
+- 💬 passionate about Statistics & Baseball
